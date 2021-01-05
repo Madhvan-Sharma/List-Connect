@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    background-color: rgba(163, 241, 236, 0.315);
+}
+.container-md{
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    font-size: 3.5rem;
+}
+
+form > *{
+    font-size:1.5rem;
+}
+
+button{
+    font-size:1.8rem !important;
+}
+
+p{
+    font-size:1.5rem;
+}
+
+input[type="checkbox"]{
+    display:inline-block;
+    width:35%;
+    height:35%;
+    margin-left:50%;
+    margin-top:40%;
+    border-color: gray;
+
+}
+
+.card-footer{
+    font-size: 1.2rem !important;
+}
+
+.border-light{
+    border-color: rgba(169, 169, 169, 0.253) !important;
+}
