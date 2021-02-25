@@ -1,6 +1,6 @@
 # Todo Web Application
 
-This is a Basic Web Application  made using : 
+This is a Basic TODO list Web Application made using : 
 
 - HTML
 - CSS
